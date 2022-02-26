@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scratch.png"><SubTexture name="scratch down0000" x="776" y="1220" width="194" height="187" frameX="-1" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch down0001" x="582" y="1220" width="194" height="200" frameX="-1" frameY="-37" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch idle0000" x="0" y="1220" width="194" height="226" frameX="-1" frameY="-11" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch idle0001" x="194" y="1220" width="194" height="226" frameX="-1" frameY="-11" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch idle0002" x="388" y="1220" width="194" height="226" frameX="-1" frameY="-11" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch idle0003" x="1376" y="983" width="194" height="227" frameX="-1" frameY="-10" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch idle0004" x="985" y="983" width="194" height="230" frameX="-1" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch left0000" x="1179" y="983" width="197" height="230" frameX="0" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch left0001" x="394" y="983" width="197" height="231" frameX="0" frameY="-6" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch right0000" x="591" y="983" width="197" height="231" frameX="0" frameY="-6" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch right0001" x="788" y="983" width="197" height="231" frameX="0" frameY="-6" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch up0000" x="0" y="983" width="197" height="237" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch up0001" x="197" y="983" width="197" height="237" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="scratch ass0000" x="0" y="0" width="1701" height="983" frameX="0" frameY="0" frameWidth="1840" frameHeight="1111" />
+</TextureAtlas>
