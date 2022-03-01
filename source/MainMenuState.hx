@@ -39,7 +39,8 @@ class MainMenuState extends MusicBeatState
 		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
 		#if !switch 'donate', #end
-		'options'
+		'options',
+		'player'
 	];
 
 	var magenta:FlxSprite;
@@ -245,6 +246,8 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
 										LoadingState.loadAndSwitchState(new options.OptionsState());
+									case 'player':
+										LoadingState.loadAndSwitchState(new MusicPlayerState());
 								}
 							});
 						}
