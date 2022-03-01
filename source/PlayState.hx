@@ -4184,11 +4184,12 @@ class PlayState extends MusicBeatState
 		//icon squish funny haha
 		iconP1.setGraphicSize(Std.int(iconP1.width + (50 * (2 - funny))),Std.int(iconP1.height - (25 * (2 - funny))));
 		iconP2.setGraphicSize(Std.int(iconP2.width + (50 * (2 - funny))),Std.int(iconP2.height - (25 * (2 - funny))));
-
+        //wot
 		iconP1.updateHitbox();
 		iconP2.updateHitbox();
 		}
 
+		//uhhhhh
 		if(curBeat % 2 == 0) {
 			if (boyfriend.animation.curAnim.name != null && !boyfriend.animation.curAnim.name.startsWith("sing"))
 			{
