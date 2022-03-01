@@ -4190,6 +4190,7 @@ class PlayState extends MusicBeatState
 		}
 
 		//uhhhhh
+	//ok
 		if(curBeat % 2 == 0) {
 			if (boyfriend.animation.curAnim.name != null && !boyfriend.animation.curAnim.name.startsWith("sing"))
 			{
